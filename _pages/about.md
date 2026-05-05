@@ -43,8 +43,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-## Skills
-
 <div class="skills-section">
   <h2 class="skills-section__title">Skills</h2>
 
