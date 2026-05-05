@@ -94,6 +94,7 @@ body {
 
 .home-actions {
   margin-top: 1.25rem;
+  margin-bottom: 2rem;
   display: flex;
   gap: 0.75rem;
   flex-wrap: wrap;
@@ -161,8 +162,9 @@ body {
   margin-bottom: 0.9rem;
 }
 
-.page__content hr {
-  margin: 2rem 0;
+.page__content {
+  font-size: 1.02rem;
+  line-height: 1.75;
 }
 
 @media (max-width: 768px) {
@@ -175,24 +177,48 @@ body {
   }
 }
 
+/* ===== Button style ==== */
+.home-btn {
+  display: inline-block;
+  padding: 0.72rem 1.15rem;
+  border-radius: 8px;
+  font-size: 0.98rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  color: #ffffff !important;
+  line-height: 1.2;
+  box-shadow: none;
+  transition: background-color 0.2s ease, transform 0.15s ease;
+}
+
+.home-btn:hover {
+  color: #ffffff !important;
+  text-decoration: none !important;
+  transform: translateY(-1px);
+}
+
+.home-btn--green {
+  background-color: #4CAF3D;
+}
+
+.home-btn--green:hover {
+  background-color: #439937;
+}
+
+.home-btn--blue {
+  background-color: #4DA1C8;
+}
+
+.home-btn--blue:hover {
+  background-color: #428caf;
+}
+
 /* ===== About page / skills section ===== */
-
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
-
-body {
-  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-}
-
-.page__content {
-  font-size: 1.02rem;
-  line-height: 1.75;
-}
-
 .skills-section {
-  margin: 2.5rem 0 3rem 0;
-  padding: 2.5rem 1rem;
-  background: #f7f7f7;
-  border-radius: 16px;
+  margin: 1.25rem 0 1.5rem 0;
+  padding: 0.75rem 0;
+  background: transparent;
+  border-radius: 0;
 }
 
 .skills-section__title {
