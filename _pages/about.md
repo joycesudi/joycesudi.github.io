@@ -16,6 +16,11 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
   </figure>
 </div>
 
+<div class="home-actions">
+  <a class="btn btn--primary" href="/files/Joyce_SUDI_cv_en.pdf">Download CV</a>
+  <a class="btn btn--info" href="/projects/">View Projects</a>
+</div>
+
 [Download CV (PDF)](/files/Joyce_SUDI_cv_en.pdf){: .btn .btn--primary}
 [View Projects](/projects/){: .btn .btn--primary}
 
