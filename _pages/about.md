@@ -9,28 +9,21 @@ redirect_from:
 
 <div class="home-hero">
   <div class="home-hero__text">
-    <p class="home-kicker">Ph.D. Candidate in Automatic Control</p>
-    <h1 class="home-title">R&D Engineer in Robotics, Control & Autonomous Systems</h1>
+    <p class="home-kicker">Ph.D. Candidate in Automatic Control | R&D Engineer in Robotics, Control & Autonomous Systems </p>
     <p class="home-lead">
-      I work at the intersection of <strong>automatic control</strong>, <strong>robotics</strong>, 
-      and <strong>autonomous systems</strong>, combining industrial R&amp;D experience at Stellantis 
-      with hands-on projects in UAV control, embedded systems, modeling, and prototyping.
+      I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foundation in robotics, control systems, and autonomous platforms. I currently combine industrial R&D at Stellantis with doctoral research on decision and control systems for autonomous vehicles. My work focuses on modeling and simulation, state estimation, advanced control, embedded systems, UAVs, and mechatronic platforms.
     </p>
     <p class="home-lead">
       I currently contribute to <strong>autonomous driving control systems</strong> in an industrial R&amp;D environment 
       while pursuing doctoral research on <strong>decision and control systems for autonomous vehicles</strong>.
     </p>
-
-    <div class="home-actions">
-      <a class="btn btn--primary" href="/files/Joyce_SUDI_cv_en.pdf">Download CV</a>
-      <a class="btn btn--info" href="/projects/">View Projects</a>
-    </div>
   </div>
 
   <div class="home-hero__media">
     <figure class="hero-figure">
       <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
-      <figcaption>Experimental quadcopter testbed developed during my master's thesis on flight dynamics and UAV stabilization.</figcaption>
+      <figcaption>Experimental quadcopter testbed developed for my master’s thesis project involving flight dynamics modeling, quadcopter stabilization control design, and prototype validation.
+</figcaption>
     </figure>
   </div>
 </div>
