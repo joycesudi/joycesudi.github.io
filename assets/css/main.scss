@@ -174,3 +174,72 @@ body {
     gap: 1.25rem;
   }
 }
+
+/* ===== About page / skills section ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+.page__content {
+  font-size: 1.02rem;
+  line-height: 1.75;
+}
+
+.skills-section {
+  margin: 2.5rem 0 3rem 0;
+  padding: 2.5rem 1rem;
+  background: #f7f7f7;
+  border-radius: 16px;
+}
+
+.skills-section__title {
+  text-align: center;
+  font-size: 2.2rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+.skills-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 2rem 2.5rem;
+  align-items: start;
+}
+
+.skills-item {
+  text-align: center;
+}
+
+.skills-item h3 {
+  font-size: 1.05rem;
+  font-weight: 600;
+  margin-bottom: 0.55rem;
+}
+
+.skills-item p {
+  font-size: 0.98rem;
+  color: #4a4a4a;
+  margin: 0;
+  line-height: 1.6;
+}
+
+/* Responsive behavior */
+@media (max-width: 900px) {
+  .skills-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 600px) {
+  .skills-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .skills-section__title {
+    font-size: 1.8rem;
+  }
+}
+
