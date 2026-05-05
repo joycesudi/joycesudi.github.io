@@ -49,7 +49,7 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
   <div class="skills-grid">
     <div class="skills-item">
       <h3>Control & Robotics</h3>
-      <p>Nonlinear and optimal control, Data‐driven Control, Optimization and Metaheuristics, Modeling and Simulation of Dynamical Systems, state estimation, and signal processing.</p>
+      <p>Nonlinear and optimal control, Data‐driven Control, Optimization and Metaheuristics, State estimation, and Signal Processing.</p>
     </div>
 
     <div class="skills-item">
