@@ -49,7 +49,12 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
   <div class="skills-grid">
     <div class="skills-item">
       <h3>Control & Robotics</h3>
-      <p>Nonlinear and optimal control, state estimation, signal processing, and decision/control systems for autonomous vehicles.</p>
+      <p>Nonlinear and optimal control, Data‐driven Control, Optimization and Metaheuristics, Modeling and Simulation of Dynamical Systems, state estimation, and signal processing.</p>
+    </div>
+
+    <div class="skills-item">
+      <h3>Modeling & Simulation</h3>
+      <p>MATLAB/Simulink, SIMPACK, Simcenter Amesim, MSC Adams</p>
     </div>
 
     <div class="skills-item">
@@ -58,23 +63,18 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
     </div>
 
     <div class="skills-item">
-      <h3>Embedded Systems</h3>
-      <p>Arduino, STM32, Raspberry Pi, KiCAD, embedded electronics and microcontroller-based systems</p>
+      <h3>Tools & Platforms</h3>
+      <p>GNU Linux (Ubuntu, Debian), MS Windows, Git, ROS, ROS 2</p>
     </div>
 
     <div class="skills-item">
-      <h3>Modeling & Simulation</h3>
-      <p>MATLAB/Simulink, SIMPACK, Simcenter Amesim, MSC Adams, multibody and dynamical systems modeling</p>
+      <h3>Embedded Systems</h3>
+      <p>Arduino, STM32, Raspberry Pi, KiCAD</p>
     </div>
-
+    
     <div class="skills-item">
       <h3>Research & Dissemination</h3>
-      <p>Scientific communication, posters, conference presentations, publications in autonomous vehicle control, and patent-related work</p>
-    </div>
-
-    <div class="skills-item">
-      <h3>Engineering Focus</h3>
-      <p>Robotics, autonomous systems, UAVs/GNC, mechatronic systems, prototyping, and industrial R&D</p>
+      <p>Scientific communication, posters, conference presentations, publications, and patent-related work</p>
     </div>
   </div>
 </div>
