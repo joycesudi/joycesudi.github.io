@@ -74,7 +74,7 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
     
     <div class="skills-item">
       <h3>Research & Dissemination</h3>
-      <p>Scientific communication, posters, conference presentations, publications, and patent-related work</p>
+      <p>Scientific Communication, Posters, Conference Presentations, Publications, and Patent-related Work</p>
     </div>
   </div>
 </div>
