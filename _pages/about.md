@@ -20,7 +20,7 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
 
 <h2 class="section-title">Education</h2>
 
-* Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027
+* Ph.D. Candidate in Automatic Control, IRIMAS – Univ. de Haute-Alsace, 2024–2027
 * MEng in Mechanical Engineering, INSA Lyon, 2020–2023
 * Mechanical Engineering — Exchange Program, EPFL, 2021–2022
 
@@ -33,6 +33,15 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
 * **R&D Engineer Intern — 3D Vehicle Digital Twin for Load Identification**, Stellantis, Feb 2023 – Aug 2023  
   * Load identification using an augmented and constrained Extended Kalman Filter (EKF)  
   * Industrialization in Python for engineering workflow integration
+
+* **Robotics Engineer**, Clubelek – INSA Lyon, Sept 2020 – Feb 2023  
+  * Development of a competition robot for the French Robotics Cup within INSA Lyon’s mechatronics and robotics club  
+  * Module coordination, systems integration, and robot localization/path planning in a ROS-based robotics environment using Python and C/C++
+
+* **Design and Development of a Quadcopter Testbed (Master’s Thesis)**, Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023  
+  * Modeling and simulation of quadcopter flight dynamics  
+  * Design and implementation of control laws for UAV stabilization  
+  * Prototype realization, testing, and experimental validation
 
 <div class="skills-section">
   <h2 class="section-title">Skills</h2>
