@@ -18,31 +18,24 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
 [Download CV (PDF)](/files/Joyce_SUDI_cv_en.pdf){: .home-btn .home-btn--green}
 [View Projects](/projects/){: .home-btn .home-btn--blue}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<h2 class="section-title">Education</h2>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027
+* MEng in Mechanical Engineering, INSA Lyon, 2020–2023
+* Mechanical Engineering — Exchange Program, EPFL, 2021–2022
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+<h2 class="section-title">Work Experience</h2>
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Autonomous Driving Research Engineer**, Stellantis, Feb 2024 – Present  
+  * Development of control algorithms for autonomous driving and ADAS  
+  * Model-based decision and control strategies for autonomous vehicles
+
+* **R&D Engineer Intern — 3D Vehicle Digital Twin for Load Identification**, Stellantis, Feb 2023 – Aug 2023  
+  * Load identification using an augmented and constrained Extended Kalman Filter (EKF)  
+  * Industrialization in Python for engineering workflow integration
 
 <div class="skills-section">
-  <h2 class="skills-section__title">Skills</h2>
+  <h2 class="section-title">Skills</h2>
 
   <div class="skills-grid">
     <div class="skills-item">
