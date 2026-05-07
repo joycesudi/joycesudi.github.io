@@ -54,7 +54,7 @@ I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
 
     <div class="skills-item">
       <h3>Modeling & Simulation</h3>
-      <p>MATLAB/Simulink, SIMPACK, Simcenter Amesim, MSC Adams</p>
+      <p>MATLAB/Simulink, IPG CarMaker, SIMPACK, Simcenter Amesim</p>
     </div>
 
     <div class="skills-item">
