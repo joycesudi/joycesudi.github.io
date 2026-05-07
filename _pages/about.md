@@ -11,12 +11,13 @@ I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
 
 <div class="about-image">
   <figure class="hero-figure align-center">
-    /images/quadcopter-testbed.jpg
+    <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
   </figure>
 </div>
 
 <div class="home-actions">
-  <a href="/files/Joyce_SUDI_cv_en.pdf" class="home  /projects/View Projects</a>
+  <a href="/files/Joyce_SUDI_cv_en.pdf" class="home-btn home-btn--green">Download CV (PDF)</a>
+  <a href="/projects/" class="home-btn home-btn--blue">View Projects</a>
 </div>
 
 <h2 class="section-title">Education</h2>
