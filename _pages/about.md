@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foundation in robotics, control systems, and autonomous platforms. I currently combine industrial R&D at Stellantis with doctoral research on decision and control systems for autonomous vehicles. My work focuses on modeling and simulation, state estimation, advanced control, embedded systems, UAVs, and mechatronic platforms.
+I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at Université de Haute-Alsace, working at the intersection of industrial innovation and academic research in autonomous mobility. My work focuses on decision and control systems for autonomous vehicles, with interests spanning multi-objective optimal control, robotics, state estimation, and model- and learning-based autonomous systems. With a background in mechanical engineering from INSA Lyon and EPFL, I aim to translate advanced control theory into reliable real-world autonomous platforms.
 
 <div style="margin: 1.5rem 0 2rem 0;">
   <figure class="align-center">
@@ -20,9 +20,9 @@ I am an R&D engineer and Ph.D. candidate in Automatic Control with a strong foun
 
 <h2 class="section-title">Education</h2>
 
-* Ph.D. Candidate in Automatic Control, IRIMAS – Univ. de Haute-Alsace, 2024–2027
+* Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027
 * MEng in Mechanical Engineering, INSA Lyon, 2020–2023
-* Mechanical Engineering — Exchange Program, EPFL, 2021–2022
+* MSc Mechanical Engineering — Exchange Program, EPFL, 2021–2022
 
 <h2 class="section-title">Work Experience</h2>
 
