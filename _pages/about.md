@@ -8,7 +8,17 @@ redirect_from:
 ---
 
 <p class="about-intro">
-I am an R&amp;D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at Université de Haute-Alsace, working at the intersection of industrial innovation and academic research in autonomous mobility. My work focuses on decision and control systems for autonomous vehicles, with interests spanning multi-objective optimal control, robotics, state estimation, and model- and learning-based autonomous systems. With a background in mechanical engineering from INSA Lyon and EPFL, I aim to translate advanced control theory into reliable real-world autonomous platforms.
+I am an R&amp;D Engineer at <a href="https://www.stellantis.com/en" target="_blank" rel="noopener noreferrer">Stellantis</a> and a Ph.D. candidate in Automatic Control at
+<a href="https://www.irimas.uha.fr/" target="_blank" rel="noopener noreferrer">IRIMAS UR 7499</a> –
+<a href="https://www.uha.fr/en/" target="_blank" rel="noopener noreferrer">Université de Haute-Alsace</a>,
+working at the intersection of industrial innovation and academic research in autonomous mobility.
+My work focuses on decision and control systems for autonomous vehicles, with interests spanning
+multi-objective optimal control, robotics, state estimation, and model- and learning-based autonomous systems.
+With a background in mechanical engineering from
+<a href="https://www.insa-lyon.fr/en/" target="_blank" rel="noopener noreferrer">INSA Lyon</a>
+and
+<a href="https://www.epfl.ch/en/" target="_blank" rel="noopener noreferrer">EPFL</a>,
+I aim to translate advanced control theory into reliable real-world autonomous platforms.
 </p>
 
 <div class="about-image">
