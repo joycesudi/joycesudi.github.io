@@ -9,56 +9,73 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<p>
+  For a complete overview of my experience, education, projects, publications, and skills, you can download my CV below.
+</p>
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<p>
+  <a href="/files/Joyce_SUDI_cv_en.pdf" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--green">
+    Download full CV (PDF)
+  </a>
+</p>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Profile
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Ph.D. candidate in Automatic Control and R&amp;D Engineer in robotics, control, and autonomous systems, with experience in autonomous driving, modeling and simulation, state estimation, advanced control, and embedded/mechatronic platforms.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Experience Highlights
+
+* **Autonomous Driving Research Engineer**, Stellantis — Since Feb. 2024  
+  Development of control algorithms for autonomous driving and ADAS, with applications to vehicle dynamics, motion control, and model-based decision/control strategies.
+
+* **R&amp;D Engineer Intern**, Stellantis — Feb. 2023 – Aug. 2023  
+  3D vehicle digital twin for load identification using real driving data, including an augmented and constrained Extended Kalman Filter applied to a nonlinear half-vehicle multibody model.
+
+* **Robotics Engineer**, Clubelek – INSA Lyon — Sept. 2020 – Feb. 2023  
+  Robotics competition work involving module coordination, systems integration, localization, path planning, Python, C/C++, and ROS-based development.
+
+## Education
+
+* **Ph.D. Candidate in Automatic Control**, IRIMAS UR 7499 – Université de Haute-Alsace — 2024–2027  
+  Research area: decision and control systems for autonomous vehicles; multi-objective optimal control.
+
+* **MEng in Mechanical Engineering**, INSA Lyon — 2020–2023  
+  Major: Mechatronics and Systems.
+
+* **Mechanical Engineering — Exchange Program**, EPFL — 2021–2022  
+  Coursework in mobile robotics, robotics for manipulation, nonlinear control, multivariable control, and embedded motor control.
+
+## Selected Projects
+
+* **Design and Development of a Quadcopter Testbed** — Ampère Laboratory, CNRS UMR 5005  
+  Flight dynamics modeling, UAV stabilization control laws, prototype realization, testing, and experimental validation.
+
+* **CubeSat Prototyping and Testing** — INSA Lyon  
+  Design of the on-board computer and embedded electronics architecture of a university CubeSat.
+
+## Technical Skills
+
+* **Control &amp; Robotics:** nonlinear and optimal control, data-driven control, optimization, state estimation, signal processing.
+* **Programming:** Python, C/C++, MATLAB/Octave, Java, Bash.
+* **Modeling &amp; Simulation:** MATLAB/Simulink, SIMPACK, Simcenter Amesim, MSC Adams.
+* **Robotics &amp; Embedded Systems:** ROS, ROS 2, Arduino, STM32, Raspberry Pi, KiCAD.
+* **Libraries &amp; Tools:** NumPy, SciPy, Matplotlib, pandas, scikit-learn, TensorFlow, PyTorch, Git, Linux.
+
+## Publications &amp; Intellectual Property
+
+* **Context-Aware Hierarchical MPC for Autonomous Vehicle Path Tracking**  
+  Under review at 2026 IEEE International Conference on Systems, Man, and Cybernetics.
+
+* **Multi-Scenario Multi-Objective Predictive Controller for Lateral Control of Autonomous Vehicles**  
+  Published in IFAC IAV 2025 conference proceedings.  
+  [DOI](https://doi.org/10.1016/j.ifacol.2025.07.013){:target="_blank" rel="noopener noreferrer"}
+
+* **Multi-Scenario Control Strategy for Autonomous Vehicles**  
+  Patent application pending — awaiting conflict review.
+
+## Links
+
+* [GitHub](https://github.com/joycesudi){:target="_blank" rel="noopener noreferrer"}
+* [LinkedIn](https://www.linkedin.com/in/joycesudi){:target="_blank" rel="noopener noreferrer"}
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=PRXSPsgAAAAJ){:target="_blank" rel="noopener noreferrer"}
+* [ORCID](https://orcid.org/0009-0005-0147-2258){:target="_blank" rel="noopener noreferrer"}
