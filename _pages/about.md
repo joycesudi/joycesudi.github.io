@@ -9,14 +9,16 @@ redirect_from:
 
 I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at Université de Haute-Alsace, working at the intersection of industrial innovation and academic research in autonomous mobility. My work focuses on decision and control systems for autonomous vehicles, with interests spanning multi-objective optimal control, robotics, state estimation, and model- and learning-based autonomous systems. With a background in mechanical engineering from INSA Lyon and EPFL, I aim to translate advanced control theory into reliable real-world autonomous platforms.
 
-<div style="margin: 1.5rem 0 2rem 0;">
-  <figure class="align-center">
-    <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting." style="width: 100%; max-width: 980px; border-radius: 0px;">
+<div class="about-image">
+  <figure class="hero-figure align-center">
+    <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
   </figure>
 </div>
 
-[Download CV (PDF)](/files/Joyce_SUDI_cv_en.pdf){: .home-btn .home-btn--green}
-[View Projects](/projects/){: .home-btn .home-btn--blue}
+<div class="home-actions">
+  <a href="/files/Joyce_SUDI_cv_en.pdf" class="home-btn home-btn--green">Download CV (PDF)</a>
+  <a href="/projects/" class="home-btn home-btn--blue">View Projects</a>
+</div>
 
 <h2 class="section-title">Education</h2>
 
@@ -48,12 +50,12 @@ I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
 
   <div class="skills-grid">
     <div class="skills-item">
-      <h3>Control & Robotics</h3>
+      <h3>Control &amp; Robotics</h3>
       <p>Nonlinear and optimal control, Data‐driven Control, Optimization and Metaheuristics, State estimation, and Signal Processing.</p>
     </div>
 
     <div class="skills-item">
-      <h3>Modeling & Simulation</h3>
+      <h3>Modeling &amp; Simulation</h3>
       <p>MATLAB/Simulink, IPG CarMaker, SIMPACK, Simcenter Amesim</p>
     </div>
 
@@ -63,7 +65,7 @@ I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
     </div>
 
     <div class="skills-item">
-      <h3>Tools & Platforms</h3>
+      <h3>Tools &amp; Platforms</h3>
       <p>GNU Linux (Ubuntu, Debian), MS Windows, Git, ROS, ROS 2</p>
     </div>
 
@@ -73,9 +75,8 @@ I am an R&D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
     </div>
     
     <div class="skills-item">
-      <h3>Research & Dissemination</h3>
+      <h3>Research &amp; Dissemination</h3>
       <p>Scientific Communication, Posters, Conference Presentations, Publications, and Patent-related Work</p>
     </div>
   </div>
 </div>
-
