@@ -65,8 +65,7 @@ Ph.D. candidate in Automatic Control and R&amp;D Engineer in robotics, control, 
   Under review at 2026 IEEE International Conference on Systems, Man, and Cybernetics.
 
 * **Multi-Scenario Multi-Objective Predictive Controller for Lateral Control of Autonomous Vehicles**  
-  Published in IFAC IAV 2025 conference proceedings.  
-  [doi.org/10.1016/j.ifacol.2025.07.013](https://doi.org/10.1016/j.ifacol.2025.07.013){:target="_blank" rel="noopener noreferrer"}
+  Published in IFAC IAV 2025 conference proceedings — [doi.org/10.1016/j.ifacol.2025.07.013](https://doi.org/10.1016/j.ifacol.2025.07.013){:target="_blank" rel="noopener noreferrer"}
 
 * **Multi-Scenario Control Strategy for Autonomous Vehicles**  
   Patent application pending — awaiting conflict review.
