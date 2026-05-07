@@ -318,6 +318,27 @@ body {
   line-height: 1.3;
 }
 
+/* Reduce space before Skills section */
+.skills-section {
+  margin-top: 0.25rem;
+  margin-bottom: 0.9rem;
+  padding-top: 0;
+}
+
+/* Override generic section-title spacing only inside Skills */
+.skills-section .section-title {
+  margin-top: 0;
+  margin-bottom: 0.65rem;
+}
+
+/* About intro paragraph */
+.about-intro {
+  text-align: justify;
+  text-align-last: left;
+  hyphens: auto;
+  margin-bottom: 0.9rem;
+}
+
 /* =========================
    Responsive
    ========================= */
