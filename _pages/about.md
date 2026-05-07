@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p class="about-intro">
-I am an R&amp;D Engineer at <a href="https://www.stellantis.com/en" target="_blank" rel="noopener noreferrer">Stellantis</a> and a Ph.D. candidate in Automatic Control at
+I am an R&amp;D Engineer at Stellantis and a Ph.D. candidate in Automatic Control at
 <a href="https://www.irimas.uha.fr/" target="_blank" rel="noopener noreferrer">IRIMAS UR 7499</a> –
 <a href="https://www.uha.fr/en/" target="_blank" rel="noopener noreferrer">Université de Haute-Alsace</a>,
 working at the intersection of industrial innovation and academic research in autonomous mobility.
@@ -40,7 +40,7 @@ I aim to translate advanced control theory into reliable real-world autonomous p
 
 <h2 class="section-title">Work Experience</h2>
 
-* **Autonomous Driving Research Engineer**, Stellantis, Feb 2024 – Present  
+* **Autonomous Driving Research Engineer**, <a href="https://www.stellantis.com/en" target="_blank" rel="noopener noreferrer">Stellantis</a>, Feb 2024 – Present  
   * Development of control algorithms for autonomous driving and ADAS  
   * Model-based decision and control strategies for autonomous vehicles
 
