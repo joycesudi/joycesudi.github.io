@@ -9,19 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-<p>
-  For a complete overview of my experience, education, projects, publications, and skills, you can download my CV below.
-</p>
+<style>
+  .page__title {
+    display: none;
+  }
+</style>
 
-<p>
-  <a href="/files/Joyce_SUDI_cv_en.pdf" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--green">
-    Download full CV (PDF)
-  </a>
-</p>
+You can check out my [CV](/files/Joyce_SUDI_cv_en.pdf){:target="_blank" rel="noopener noreferrer"} for more details.
 
 ## Profile
 
-Ph.D. candidate in Automatic Control and R&amp;D Engineer in robotics, control, and autonomous systems, with experience in autonomous driving, modeling and simulation, state estimation, advanced control, and embedded/mechatronic platforms.
+Ph.D. candidate in Automatic Control and R&amp;D Engineer in robotics, control, and autonomous systems, with experience in autonomous driving, modeling and simulation, state estimation, advanced control, and embedded/mechatronic systems.
 
 ## Experience Highlights
 
