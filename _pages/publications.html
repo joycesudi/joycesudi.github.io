@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% include base_path %}
+
 {% if site.author.googlescholar %}
   <div class="wordwrap">
     You can also find my articles on
@@ -14,28 +16,30 @@ author_profile: true
   </div>
 {% endif %}
 
-{% include base_path %}
+<h2 class="section-title">Publications</h2>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<ul>
+  <li>
+    <strong>Context-Aware Hierarchical MPC for Autonomous Vehicle Path Tracking</strong><br>
+    <em>Under review at the 2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC 2026)</em><br>
+    Joyce Sudi Bin-Ali, Imane Mahtout, Michel Basset, Rodolfo Orjuela
+  </li>
 
+  <li>
+    <strong>Multi-Scenario Multi-Objective Predictive Controller for Lateral Control of Autonomous Vehicles</strong><br>
+    <em>Published in the IFAC IAV 2025 conference proceedings</em><br>
+    Joyce Sudi Bin-Ali, Imane Mahtout, Michel Basset, Rodolfo Orjuela<br>
+    <a href="https://doi.org/10.1016/j.ifacol.2025.07.013" target="_blank" rel="noopener noreferrer">
+      doi.org/10.1016/j.ifacol.2025.07.013
+    </a>
+  </li>
+</ul>
 
+<h2 class="section-title">Intellectual Property</h2>
 
+<ul>
+  <li>
+    <strong>Multi-Scenario Control Strategy for Autonomous Vehicles</strong><br>
+    <em>Patent application pending — awaiting conflict review</em>
+  </li>
+</ul>
