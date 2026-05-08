@@ -417,6 +417,66 @@ body {
 }
 
 /* =========================
+   Project detail pages
+   ========================= */
+
+/* Hide default date/meta on portfolio pages */
+.collection-portfolio .page__meta,
+.collection-portfolio .page__share,
+.collection-portfolio .page__taxonomy {
+  display: none !important;
+}
+
+/* Cleaner spacing for single project pages */
+.collection-portfolio .page__title {
+  margin-bottom: 0.65rem;
+}
+
+.collection-portfolio .page__content {
+  max-width: 760px;
+}
+
+/* Project detail buttons */
+.project-page__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.7rem;
+  margin-bottom: 0.85rem;
+}
+
+/* Keyword highlights */
+.project-page__highlights {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-top: 0.75rem;
+  margin-bottom: 0.65rem;
+}
+
+.project-highlight {
+  display: inline-block;
+  padding: 0.22rem 0.5rem;
+  font-size: 0.72rem;
+  line-height: 1.2;
+  color: #555;
+  background: #f0f0f0;
+  border-radius: 4px;
+  border: 1px solid #e1e1e1;
+}
+
+/* Title styling for project cards on Projects page */
+.project-card__title a {
+  color: #48a8d4;
+  text-decoration: none;
+}
+
+.project-card__title a:hover {
+  color: #2d8fbd;
+  text-decoration: underline;
+}
+
+/* =========================
    Responsive
    ========================= */
 
