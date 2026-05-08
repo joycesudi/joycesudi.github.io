@@ -380,11 +380,12 @@ body {
 }
 
 .project-card__title a {
-  color: inherit;
+  color: #48a8d4; /* hyperlink-like blue */
   text-decoration: none;
 }
 
 .project-card__title a:hover {
+  color: #2d8fbd;
   text-decoration: underline;
 }
 
@@ -397,7 +398,7 @@ body {
 
 .project-card__image {
   width: 100%;
-  margin-bottom: 0.5rem;
+  margin-bottom: 0.55rem;
 }
 
 .project-card__image img {
