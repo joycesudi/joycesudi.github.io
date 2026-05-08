@@ -14,7 +14,7 @@ buttons:
     color: "green"
     external: false
 
-  - text: "IFAC-IAV Conference 2025 - Slides"
+  - text: "Video"
     url: "https://youtu.be/tqOkrGcqWoI"
     color: "blue"
     external: true
