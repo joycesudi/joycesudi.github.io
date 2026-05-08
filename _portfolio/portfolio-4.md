@@ -1,7 +1,7 @@
 ---
 title: "Quadcopter Testbed"
 collection: portfolio
-permalink: /portfolio/predictive-path-tracking-control-of-avs/
+permalink: /portfolio/quadcopter-testbed/
 excerpt: "Design and Development of a Quadcopter Testbed (Master's Thesis)"
 teaser: /images/banc_de_test.jpg
 layout: single
