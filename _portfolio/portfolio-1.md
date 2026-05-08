@@ -1,7 +1,11 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Context-Aware Hierarchical MPC"
+excerpt: "Hierarchical and scenario-dependent MPC for autonomous vehicle path tracking in dynamic driving environments."
 collection: portfolio
+teaser: /images/projects/stellantis_mpc.jpg
+paper_url: https://doi.org/10.1016/j.ifacol.2025.07.013
+project_url: /projects/
+code_url: https://github.com/joycesudi
+venue: "IFAC IAV 2025"
+status: "Published"
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
