@@ -181,6 +181,24 @@ body {
   line-height: 1.45;
 }
 
+/* Education & Work Experience compact lists */
+.about-compact-list {
+  margin-top: 0.2rem;
+  margin-bottom: 0.8rem;
+}
+
+.about-compact-list ul {
+  margin-top: 0.15rem;
+  margin-bottom: 0.5rem;
+  padding-left: 1.1rem;
+}
+
+.about-compact-list li {
+  font-size: 0.72rem;   /* same size family as skills text */
+  line-height: 1.3;
+  margin-bottom: 0.14rem;
+}
+
 /* =========================
    Buttons - smaller
    ========================= */
