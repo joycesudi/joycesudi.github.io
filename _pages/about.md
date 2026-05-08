@@ -12,12 +12,6 @@ I am an R&amp;D Engineer at Stellantis and a Ph.D. candidate in Automatic Contro
 working at the intersection of industrial innovation and academic research in autonomous mobility. My work focuses on decision and control systems for autonomous vehicles, with interests spanning multi-objective optimal control, robotics, state estimation, and model- and learning-based autonomous systems. With a background in mechanical engineering from INSA Lyon and EPFL, I aim to translate advanced control theory into reliable real-world autonomous platforms.
 </p>
 
-<div class="about-image">
-  <figure class="hero-figure align-center">
-    <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
-  </figure>
-</div>
-
 <div class="home-actions">
   <a href="/files/Joyce_SUDI_cv_en.pdf" class="home-btn home-btn--green">Download CV (PDF)</a>
   <a href="/projects/" class="home-btn home-btn--blue">View Projects</a>
