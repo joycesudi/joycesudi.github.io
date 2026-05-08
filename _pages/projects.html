@@ -8,8 +8,16 @@ collection: portfolio
 
 {% include base_path %}
 
+<style>
+  .page__title {
+    display: none;
+  }
+</style>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+<div class="projects-grid">
+  {% for post in site.portfolio %}
+    <div class="projects-grid__item">
+      {% include archive-single-project.html post=post %}
+    </div>
+  {% endfor %}
+</div>
