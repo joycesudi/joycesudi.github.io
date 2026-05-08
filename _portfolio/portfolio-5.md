@@ -1,7 +1,7 @@
 ---
 title: "CubeSat Prototyping and Testing"
 collection: portfolio
-permalink: /portfolio/predictive-path-tracking-control-of-avs/
+permalink: /portfolio/cubesat-prototyping-and-testing/
 excerpt: "Design of the on‐board computer and embedded electronics architecture of a university CubeSat"
 teaser: /images/CubeSAT_project.jpg
 layout: single
