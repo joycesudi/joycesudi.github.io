@@ -18,15 +18,28 @@
         <img src="{{ include.post.teaser | relative_url }}" alt="{{ include.post.title }}">
       </div>
     {% endif %}
-
+ 
     {% if include.post.buttons %}
       <div class="project-card__actions">
         {% for btn in include.post.buttons %}
-          <a href="{{ btn.url }}"
-             class="home-btn home-btn--{{ btn.color | default: 'gray' }}"
-             {% if btn.external %}target="_blank" rel="noopener noreferrer"{% endif %}>
-            {{ btn.text }}
-          </a>
+          {% assign btn_class = "home-btn" %}
+          {% if btn.color == "green" %}
+            {% assign btn_class = btn_class | append: " home-btn--green" %}
+          {% elsif btn.color == "blue" %}
+            {% assign btn_class = btn_class | append: " home-btn--blue" %}
+          {% elsif btn.color == "gray" %}
+            {% assign btn_class = btn_class | append: " home-btn--gray" %}
+          {% endif %}
+    
+          {% if btn.external %}
+            <a href="{{ btn.url }}" class="{{ btn_class }}" target="_blank" rel="noopener noreferrer">
+              {{ btn.text }}
+            </a>
+          {% else %}
+            <a href="{{ btn.url | relative_url }}" class="{{ btn_class }}">
+              {{ btn.text }}
+            </a>
+          {% endif %}
         {% endfor %}
       </div>
     {% endif %}
