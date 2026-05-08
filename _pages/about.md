@@ -31,22 +31,10 @@ working at the intersection of industrial innovation and academic research in au
 
 <h2 class="section-title">Work Experience</h2>
 
-* **Autonomous Driving Research Engineer**, Stellantis, Feb 2024 – Present  
-  * Development of control algorithms for autonomous driving and ADAS  
-  * Model-based decision and control strategies for autonomous vehicles
-
-* **R&D Engineer Intern — 3D Vehicle Digital Twin for Load Identification**, Stellantis, Feb 2023 – Aug 2023  
-  * Load identification using an augmented and constrained Extended Kalman Filter (EKF)  
-  * Industrialization in Python for engineering workflow integration
-
-* **Robotics Engineer**, Clubelek – INSA Lyon, Sept 2020 – Feb 2023  
-  * Development of a competition robot for the French Robotics Cup within INSA Lyon’s mechatronics and robotics club  
-  * Module coordination, systems integration, and robot localization/path planning in a ROS-based robotics environment using Python and C/C++
-
-* **Design and Development of a Quadcopter Testbed (Master’s Thesis)**, Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023  
-  * Modeling and simulation of quadcopter flight dynamics  
-  * Design and implementation of control laws for UAV stabilization  
-  * Prototype realization, testing, and experimental validation
+* Autonomous Driving Research Engineer, Stellantis, Feb 2024 – Present  
+* R&D Engineer Intern — 3D Vehicle Digital Twin for Load Identification, Stellantis, Feb 2023 – Aug 2023  
+* Robotics Engineer, Clubelek – INSA Lyon, Sept 2020 – Feb 2023  
+* Design and Development of a Quadcopter Testbed (Master’s Thesis), Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023  
 
 <div class="skills-section">
   <h2 class="section-title">Skills</h2>
