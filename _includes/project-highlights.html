@@ -1,0 +1,7 @@
+{% if include.highlights %}
+  <div class="project-page__highlights">
+    {% for item in include.highlights %}
+      <span class="project-highlight">{{ item }}</span>
+    {% endfor %}
+  </div>
+{% endif %}
