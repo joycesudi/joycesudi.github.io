@@ -1,0 +1,24 @@
+{% if include.buttons %}
+  <div class="project-page__actions">
+    {% for btn in include.buttons %}
+      {% assign btn_class = "home-btn" %}
+      {% if btn.color == "green" %}
+        {% assign btn_class = btn_class | append: " home-btn--green" %}
+      {% elsif btn.color == "blue" %}
+        {% assign btn_class = btn_class | append: " home-btn--blue" %}
+      {% elsif btn.color == "gray" %}
+        {% assign btn_class = btn_class | append: " home-btn--gray" %}
+      {% endif %}
+
+      {% if btn.external %}
+        <a href="{{ btn.url }}" class="{{ btn_class }}" target="_blank" rel="noopener noreferrer">
+          {{ btn.text }}
+        </a>
+      {% else %}
+        <a href="{{ btn.url | relative_url }}" class="{{ btn_class }}">
+          {{ btn.text }}
+        </a>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
