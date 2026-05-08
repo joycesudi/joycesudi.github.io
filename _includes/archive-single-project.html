@@ -1,48 +1,43 @@
 <article class="project-card">
-  {% if include.post.teaser %}
-    <div class="project-card__image">
-      {% if include.post.project_url %}
-        <img src="{{ include.post.teaser | relative_url }}" alt="{{ include.post.title }}">
-        </a>
-      {% else %}
-        <img src="{{ include.post.teaser | relative_url }}" alt="{{ include.post.title }}">
-      {% endif %}
-    </div>
-  {% endif %}
-
   <div class="project-card__body">
+
     <h2 class="project-card__title">
-      {% if include.post.project_url %}
-        {{ include.post.title }}</a>
-      {% else %}
+      <a href="{{ base_path }}{{ include.post.url }}">
         {{ include.post.title }}
-      {% endif %}
+      </a>
     </h2>
 
     {% if include.post.excerpt %}
-      <p class="project-card__excerpt">{{ include.post.excerpt | markdownify | strip_html }}</p>
+      <p class="project-card__excerpt">
+        {{ include.post.excerpt | markdownify | strip_html }}
+      </p>
+    {% endif %}
+
+    {% if include.post.teaser %}
+      <div class="project-card__image">
+        <img src="{{ include.post.teaser | relative_url }}" alt="{{ include.post.title }}">
+      </div>
     {% endif %}
 
     <div class="project-card__actions">
       {% if include.post.paper_url %}
-        Paper</a>
+        <a href="{{ include.post.paper_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--green">
+          Paper
+        </a>
       {% endif %}
 
       {% if include.post.project_url %}
-        Project</a>
+        <a href="{{ include.post.project_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--blue">
+          Project
+        </a>
       {% endif %}
 
       {% if include.post.code_url %}
-        Code</a>
-      {% endif %}
-
-      {% if include.post.venue %}
-        <span class="project-card__meta">{{ include.post.venue }}</span>
-      {% endif %}
-
-      {% if include.post.status %}
-        <span class="project-card__meta">{{ include.post.status }}</span>
+        <a href="{{ include.post.code_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--gray">
+          Code
+        </a>
       {% endif %}
     </div>
+
   </div>
 </article>
