@@ -19,25 +19,17 @@
       </div>
     {% endif %}
 
-    <div class="project-card__actions">
-      {% if include.post.paper_url %}
-        <a href="{{ include.post.paper_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--green">
-          Paper
-        </a>
-      {% endif %}
-
-      {% if include.post.project_url %}
-        <a href="{{ include.post.project_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--blue">
-          Project
-        </a>
-      {% endif %}
-
-      {% if include.post.code_url %}
-        <a href="{{ include.post.code_url }}" target="_blank" rel="noopener noreferrer" class="home-btn home-btn--gray">
-          Code
-        </a>
-      {% endif %}
-    </div>
+    {% if include.post.buttons %}
+      <div class="project-card__actions">
+        {% for btn in include.post.buttons %}
+          <a href="{{ btn.url }}"
+             class="home-btn home-btn--{{ btn.color | default: 'gray' }}"
+             {% if btn.external %}target="_blank" rel="noopener noreferrer"{% endif %}>
+            {{ btn.text }}
+          </a>
+        {% endfor %}
+      </div>
+    {% endif %}
 
   </div>
 </article>
