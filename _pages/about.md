@@ -26,22 +26,22 @@ working at the intersection of industrial innovation and academic research in au
 <h2 class="section-title">Education</h2>
 
 <div class="about-compact-list">
-  
-* Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027
-* MEng in Mechanical Engineering, INSA Lyon, 2020–2023
-* MSc Mechanical Engineering — Exchange Program, EPFL, 2021–2022
-  
+  <ul>
+    <li>Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027</li>
+    <li>MEng in Mechanical Engineering, INSA Lyon, 2020–2023</li>
+    <li>MSc Mechanical Engineering — Exchange Program, EPFL, 2021–2022</li>
+  </ul>
 </div>
 
 <h2 class="section-title">Work Experience</h2>
 
 <div class="about-compact-list">
-  
-* Autonomous Driving Research Engineer, Stellantis, Feb 2024 – Present  
-* R&D Engineer Intern — 3D Vehicle Digital Twin for Load Identification, Stellantis, Feb 2023 – Aug 2023  
-* Robotics Engineer, Clubelek – INSA Lyon, Sept 2020 – Feb 2023  
-* Design and Development of a Quadcopter Testbed (Master’s Thesis), Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023
-   
+  <ul>
+    <li>Autonomous Driving Research Engineer, Stellantis, Feb 2024 – Present</li>
+    <li>R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification, Stellantis, Feb 2023 – Aug 2023</li>
+    <li>Robotics Engineer, Clubelek – INSA Lyon, Sept 2020 – Feb 2023</li>
+    <li>Design and Development of a Quadcopter Testbed (Master’s Thesis), Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023</li>
+  </ul>
 </div>
 
 <div class="skills-section">
