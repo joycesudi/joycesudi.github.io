@@ -20,11 +20,11 @@ buttons:
     external: false
 
 highlights:
-  - "Autonomous Driving"
+  - "PhD"
+  - "Doctoral Research"
   - "Model Predictive Control"
-  - "Multi-Objective Control"
-  - "IPG CarMaker"
-  - "Path Tracking"
+  - "Autonomous Driving"
+  - "Multi-Objective Optimal Control"
 ---
 My research at Stellantis focuses on decision and control systems for autonomous vehicles (AVs), with the objective of extending automated driving control strategies to heterogeneous and critical driving scenarios. I investigate multi-scenario and multi-objective Model Predictive Control (MPC) architectures that adapt online to changing driving contexts while balancing safety, tracking accuracy, comfort, and robustness. The work aims to move beyond single-controller approaches by designing modular and context-aware control frameworks validated in high-fidelity simulation environments such as IPG CarMaker and extended to real-vehicle validation.
 
