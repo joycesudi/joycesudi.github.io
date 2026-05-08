@@ -40,7 +40,7 @@ Ph.D. candidate in Automatic Control and R&amp;D Engineer in robotics, control, 
 * **MEng in Mechanical Engineering**, INSA Lyon — 2020–2023  
   Major: Mechatronics and Systems.
 
-* **Mechanical Engineering — Exchange Program**, EPFL — 2021–2022  
+* **MSc Mechanical Engineering — Exchange Program**, EPFL — 2021–2022  
   Coursework in mobile robotics, robotics for manipulation, nonlinear control, multivariable control, and embedded motor control.
 
 ## Selected Projects
