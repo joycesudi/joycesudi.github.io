@@ -80,7 +80,7 @@ working at the intersection of industrial innovation and academic research in au
 
       <article class="resume-item">
         <div class="resume-item__logo">
-          /images/logo_stla.png
+          <img src="/images/logo_stla.png" alt="Stellantis logo">
         </div>
         <div class="resume-item__content">
           <div class="resume-item__header">
