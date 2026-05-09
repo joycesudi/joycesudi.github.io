@@ -74,7 +74,7 @@ working at the intersection of industrial innovation and academic research in au
   </div>
 
   <div class="resume-column">
-    <h2 class="section-title resume-section-title">Experience</h2>
+    <h2 class="section-title resume-section-title">Selected Experience</h2>
 
     <div class="resume-list">
 
@@ -101,19 +101,6 @@ working at the intersection of industrial innovation and academic research in au
             <div class="resume-item__date">Feb 2023 – Aug 2023</div>
           </div>
           <p class="resume-item__role">R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification</p>
-        </div>
-      </article>
-
-      <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo-clubelek.png" alt="Clubelek logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">Clubelek – INSA Lyon</h3>
-            <div class="resume-item__date">Sept 2020 – Feb 2023</div>
-          </div>
-          <p class="resume-item__role">Robotics Engineer</p>
         </div>
       </article>
 
