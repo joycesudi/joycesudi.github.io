@@ -24,25 +24,115 @@ working at the intersection of industrial innovation and academic research in au
   <a href="/projects/" class="home-btn home-btn--blue">View Projects</a>
 </div>
 
-<h2 class="section-title">Education</h2>
+<div class="resume-sections">
 
-<div class="about-compact-list">
-  <ul>
-    <li>Ph.D. Candidate in Automatic Control, IRIMAS – Université de Haute-Alsace, 2024–2027</li>
-    <li>MEng in Mechanical Engineering, INSA Lyon, 2020–2023</li>
-    <li>MSc Mechanical Engineering — Exchange Program, EPFL, 2021–2022</li>
-  </ul>
-</div>
+  <div class="resume-column">
+    <h2 class="section-title">Education</h2>
 
-<h2 class="section-title">Work Experience</h2>
+    <div class="resume-list">
 
-<div class="about-compact-list">
-  <ul>
-    <li>Autonomous Driving Research Engineer, Stellantis, Feb 2024 – Present</li>
-    <li>R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification, Stellantis, Feb 2023 – Aug 2023</li>
-    <li>Robotics Engineer, Clubelek – INSA Lyon, Sept 2020 – Feb 2023</li>
-    <li>Design and Development of a Quadcopter Testbed (Master’s Thesis), Ampère Laboratory – CNRS UMR 5005, Sept 2022 – Feb 2023</li>
-  </ul>
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo_univ_haute_alsace.png" alt="Université de Haute-Alsace logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">IRIMAS – Université de Haute-Alsace</h3>
+            <div class="resume-item__date">2024–2027</div>
+          </div>
+          <p class="resume-item__role">Ph.D. Candidate in Automatic Control</p>
+        </div>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/Logo_INSA_Lyon_small.png" alt="INSA Lyon logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">INSA Lyon</h3>
+            <div class="resume-item__date">2020–2023</div>
+          </div>
+          <p class="resume-item__role">MEng in Mechanical Engineering</p>
+        </div>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo-epfl.png" alt="EPFL logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">EPFL</h3>
+            <div class="resume-item__date">2021–2022</div>
+          </div>
+          <p class="resume-item__role">MSc Mechanical Engineering — Exchange Program</p>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
+  <div class="resume-column">
+    <h2 class="section-title">Experience</h2>
+
+    <div class="resume-list">
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo_stla.png" alt="Stellantis logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">Stellantis</h3>
+            <div class="resume-item__date">Feb 2024 – Present</div>
+          </div>
+          <p class="resume-item__role">Autonomous Driving Research Engineer</p>
+        </div>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo_stla.png" alt="Stellantis logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">Stellantis</h3>
+            <div class="resume-item__date">Feb 2023 – Aug 2023</div>
+          </div>
+          <p class="resume-item__role">R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification</p>
+        </div>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo-clubelek.png" alt="Clubelek logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">Clubelek – INSA Lyon</h3>
+            <div class="resume-item__date">Sept 2020 – Feb 2023</div>
+          </div>
+          <p class="resume-item__role">Robotics Engineer</p>
+        </div>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__logo">
+          <img src="/images/logo_lab_ampère.png" alt="Ampère Laboratory logo">
+        </div>
+        <div class="resume-item__content">
+          <div class="resume-item__header">
+            <h3 class="resume-item__org">Ampère Laboratory – CNRS UMR 5005</h3>
+            <div class="resume-item__date">Sept 2022 – Feb 2023</div>
+          </div>
+          <p class="resume-item__role">Design and Development of a Quadcopter Testbed (Master’s Thesis)</p>
+        </div>
+      </article>
+
+    </div>
+  </div>
+
 </div>
 
 <div class="skills-section">
