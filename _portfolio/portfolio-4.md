@@ -19,7 +19,7 @@ buttons:
     color: "green"
     external: true
 
-  - text: "Diagram"
+  - text: "Blueprint"
     url: "/files/blueprint_testbed.pdf"
     color: "green"
     external: false
