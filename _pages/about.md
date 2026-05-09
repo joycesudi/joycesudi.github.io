@@ -27,7 +27,7 @@ working at the intersection of industrial innovation and academic research in au
 <div class="resume-sections">
 
   <div class="resume-column">
-    <h2 class="section-title">Education</h2>
+    <h2 class="section-title resume-section-title">Education</h2>
 
     <div class="resume-list">
 
@@ -74,7 +74,7 @@ working at the intersection of industrial innovation and academic research in au
   </div>
 
   <div class="resume-column">
-    <h2 class="section-title">Experience</h2>
+    <h2 class="section-title resume-section-title">Experience</h2>
 
     <div class="resume-list">
 
