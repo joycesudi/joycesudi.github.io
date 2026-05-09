@@ -547,3 +547,174 @@ body {
   }
 }
 
+/* =========================================
+   Wider homepage layout
+   ========================================= */
+
+.layout--single.wide-home .page {
+  max-width: 1500px;
+}
+
+.layout--single.wide-home .page__inner-wrap {
+  max-width: 1320px;
+}
+
+.layout--single.wide-home .page__content {
+  max-width: none;
+}
+
+.layout--single.wide-home .about-intro,
+.layout--single.wide-home .about-image,
+.layout--single.wide-home .home-actions,
+.layout--single.wide-home .resume-sections,
+.layout--single.wide-home .skills-section {
+  max-width: 1120px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.layout--single.wide-home .about-intro {
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+.layout--single.wide-home .hero-figure img {
+  width: 100%;
+  max-width: 1120px;
+  display: block;
+  margin: 0 auto;
+}
+
+/* Optional: slightly larger title on home page */
+.layout--single.wide-home .page__title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* =========================================
+   Education / Experience two-column layout
+   ========================================= */
+
+.resume-sections {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2.5rem 3rem;
+  margin-top: 1.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.resume-column .section-title {
+  text-align: left;
+  font-size: 1.75rem;
+  margin-top: 0;
+  margin-bottom: 1.1rem;
+}
+
+.resume-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.1rem;
+}
+
+.resume-item {
+  display: grid;
+  grid-template-columns: 60px 1fr;
+  gap: 0.9rem;
+  align-items: start;
+}
+
+.resume-item__logo {
+  width: 60px;
+  height: 60px;
+  border: 1px solid #e2e8f0;
+  border-radius: 10px;
+  background: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.resume-item__logo img {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+  display: block;
+}
+
+.resume-item__content {
+  min-width: 0;
+}
+
+.resume-item__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.resume-item__org {
+  font-size: 1.2rem;
+  font-weight: 600;
+  line-height: 1.2;
+  margin: 0;
+}
+
+.resume-item__date {
+  font-size: 0.95rem;
+  color: #5e6b7a;
+  white-space: nowrap;
+}
+
+.resume-item__role {
+  margin: 0.28rem 0 0 0;
+  font-size: 0.96rem;
+  line-height: 1.4;
+  color: #222;
+}
+
+/* Optional subtle spacing and separators */
+.resume-item + .resume-item {
+  padding-top: 0.05rem;
+}
+
+/* =========================================
+   Responsive
+   ========================================= */
+
+@media (max-width: 1100px) {
+  .resume-sections {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .resume-item {
+    grid-template-columns: 52px 1fr;
+    gap: 0.75rem;
+  }
+
+  .resume-item__logo {
+    width: 52px;
+    height: 52px;
+  }
+
+  .resume-item__org {
+    font-size: 1.05rem;
+  }
+
+  .resume-item__role {
+    font-size: 0.9rem;
+  }
+
+  .resume-item__date {
+    font-size: 0.88rem;
+  }
+
+  .layout--single.wide-home .page__title {
+    font-size: 1.6rem;
+  }
+}
