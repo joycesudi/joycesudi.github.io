@@ -649,26 +649,25 @@ body {
 }
 
 .resume-item {
-  display: grid;
-  grid-template-columns: 38px 1fr;
-  gap: 0.7rem;
-  align-items: start;
+  display: flex;
+  align-items: flex-start;
+  gap: 0.6rem;
 }
 
 .resume-item__logo {
-  width: 38px;
-  height: 38px;
+  flex: 0 0 22px;
+  width: 22px;
+  height: 22px;
   display: flex;
   align-items: flex-start;
   justify-content: center;
   overflow: hidden;
-  flex-shrink: 0;
   background: transparent;
   border: none;
   border-radius: 0;
   box-shadow: none;
   padding: 0;
-  margin-top: 0.08rem; /* aligns logo top with org name top */
+  margin-top: 0.14rem;
 }
 
 .resume-item__logo img {
@@ -686,9 +685,10 @@ body {
 }
 
 .resume-item__content {
+  flex: 1 1 auto;
   min-width: 0;
 }
-
+  
 .resume-item__header {
   display: grid;
   grid-template-columns: 1fr auto;
@@ -766,16 +766,15 @@ body {
   }
 
   .resume-item {
-    grid-template-columns: 32px 1fr;
-    gap: 0.55rem;
-  }
-  
-  .resume-item__logo {
-    width: 32px;
-    height: 32px;
-    margin-top: 0.05rem;
+    gap: 0.5rem;
   }
 
+  .resume-item__logo {
+    flex: 0 0 20px;
+    width: 20px;
+    height: 20px;
+    margin-top: 0.12rem;
+  }
   .resume-item__header {
     grid-template-columns: 1fr;
   }
