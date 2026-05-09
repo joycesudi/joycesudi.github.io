@@ -13,6 +13,11 @@ buttons:
     url: "/files/quadcopter_project_report.pdf"
     color: "green"
     external: true
+    
+  - text: "Slides"
+    url: "/files/quadcopter_project_slides_presentation.pdf"
+    color: "green"
+    external: true
 
   - text: "Diagram"
     url: "/files/blueprint_testbed.pdf"
