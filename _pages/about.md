@@ -32,49 +32,52 @@ working at the intersection of industrial innovation and academic research in au
     <div class="resume-list">
 
       <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo_univ_haute_alsace.png" alt="Université de Haute-Alsace logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">IRIMAS – Université de Haute-Alsace</h3>
-            <div class="resume-item__date">2024–2027</div>
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo_univ_haute_alsace.png" alt="Université de Haute-Alsace logo">
           </div>
-          <p class="resume-item__role">Ph.D. Candidate in Automatic Control</p>
+      
+          <h3 class="resume-item__org">Univ. de Haute-Alsace</h3>
+      
+          <div class="resume-item__date">2024–2027</div>
         </div>
+      
+        <p class="resume-item__role">Ph.D. Candidate in Automatic Control</p>
       </article>
 
       <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/Logo_INSA_Lyon_small.png" alt="INSA Lyon logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">INSA Lyon</h3>
-            <div class="resume-item__date">2020–2023</div>
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/Logo_INSA_Lyon_small.png" alt="INSA Lyon logo">
           </div>
-          <p class="resume-item__role">MEng in Mechanical Engineering</p>
+      
+          <h3 class="resume-item__org">INSA Lyon</h3>
+      
+          <div class="resume-item__date">2020–2023</div>
         </div>
+      
+        <p class="resume-item__role">MEng in Mechanical Engineering</p>
       </article>
 
-      <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo-epfl.png" alt="EPFL logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">EPFL</h3>
-            <div class="resume-item__date">2021–2022</div>
+       <article class="resume-item">
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo-epfl.png" alt="EPFL logo">
           </div>
-          <p class="resume-item__role">MSc Mechanical Engineering — Exchange Program</p>
+      
+          <h3 class="resume-item__org">EPFL</h3>
+      
+          <div class="resume-item__date">2021–2022</div>
         </div>
+      
+        <p class="resume-item__role">MSc Mechanical Engineering — Exchange Program</p>
       </article>
-
+      
     </div>
   </div>
 
   <div class="resume-column">
-    <h2 class="section-title resume-section-title">Selected Experience</h2>
+    <h2 class="section-title resume-section-title">Experience</h2>
 
     <div class="resume-list">
 
@@ -112,7 +115,7 @@ working at the intersection of industrial innovation and academic research in au
             <img src="/images/logo-clubelek.png" alt="Clubelek logo">
           </div>
       
-          <h3 class="resume-item__org">Clubelek - INSA Lyon</h3>
+          <h3 class="resume-item__org">Clubelek</h3>
       
           <div class="resume-item__date">Sep 2020 – Feb 2023</div>
         </div>
