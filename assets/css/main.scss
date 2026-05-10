@@ -668,7 +668,7 @@ body {
   box-shadow: none;
   padding: 0;
   margin: 0;
-  transform: translateY(0.18rem); /* visual shift without affecting layout height */
+  transform: translateY(0.36rem); /* visual shift without affecting layout height */
 }
 
 .resume-item__logo img {
@@ -773,7 +773,7 @@ body {
     flex: 0 0 20px;
     width: 20px;
     height: 16px;
-    transform: translateY(0.14rem);
+    transform: translateY(0.28rem);
   }
   
   .resume-item__header {
