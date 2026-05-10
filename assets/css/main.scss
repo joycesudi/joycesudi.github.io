@@ -673,16 +673,12 @@ body {
 
 .resume-item__logo img {
   display: block;
-  max-width: 100%;
-  max-height: 100%;
+  height: 16px;       /* ← fixed height drives the constraint */
   width: auto;
-  height: auto;
+  max-width: 22px;
   object-fit: contain;
   object-position: center top;
-  border: none;
-  border-radius: 0;
-  box-shadow: none;
-  background: transparent;
+  /* remove max-height: 100% — no longer needed */
 }
 
 .resume-item__content {
@@ -772,8 +768,13 @@ body {
   .resume-item__logo {
     flex: 0 0 20px;
     width: 20px;
-    height: 16px;
+    height: 14px;
     transform: translateY(0.28rem);
+  }
+
+  .resume-item__logo img {
+    height: 14px;
+    max-width: 20px;
   }
   
   .resume-item__header {
