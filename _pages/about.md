@@ -93,29 +93,45 @@ working at the intersection of industrial innovation and academic research in au
       </article>
 
       <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo_stla.png" alt="Stellantis logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">Stellantis</h3>
-            <div class="resume-item__date">Feb 2023 – Aug 2023</div>
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo_stla.png" alt="Stellantis logo">
           </div>
-          <p class="resume-item__role">R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification</p>
+      
+          <h3 class="resume-item__org">Stellantis</h3>
+      
+          <div class="resume-item__date">Feb 2023 – Aug 2023</div>
         </div>
+      
+        <p class="resume-item__role">R&amp;D Engineer Intern — 3D Vehicle Digital Twin for Load Identification</p>
       </article>
 
       <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo_lab_ampère.png" alt="Ampère Laboratory logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">Ampère Laboratory – CNRS UMR 5005</h3>
-            <div class="resume-item__date">Sept 2022 – Feb 2023</div>
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo-clubelek.png" alt="Clubelek logo">
           </div>
-          <p class="resume-item__role">Design and Development of a Quadcopter Testbed (Master’s Thesis)</p>
+      
+          <h3 class="resume-item__org">Clubelek - INSA Lyon</h3>
+      
+          <div class="resume-item__date">Sep 2020 – Feb 2023</div>
         </div>
+      
+        <p class="resume-item__role">Robotics Engineer</p>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo_lab_ampère.png" alt="Ampère Laboratory logo">
+          </div>
+      
+          <h3 class="resume-item__org">Ampère Laboratory</h3>
+      
+          <div class="resume-item__date">Sept 2022 – Feb 2023</div>
+        </div>
+      
+        <p class="resume-item__role">Design and Development of a Quadcopter Testbed (Master’s Thesis)</p>
       </article>
 
     </div>
