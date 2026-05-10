@@ -79,16 +79,17 @@ working at the intersection of industrial innovation and academic research in au
     <div class="resume-list">
 
       <article class="resume-item">
-        <div class="resume-item__logo">
-          <img src="/images/logo_stla.png" alt="Stellantis logo">
-        </div>
-        <div class="resume-item__content">
-          <div class="resume-item__header">
-            <h3 class="resume-item__org">Stellantis</h3>
-            <div class="resume-item__date">Feb 2024 – Present</div>
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo_stla.png" alt="Stellantis logo">
           </div>
-          <p class="resume-item__role">Autonomous Driving Research Engineer</p>
+      
+          <h3 class="resume-item__org">Stellantis</h3>
+      
+          <div class="resume-item__date">Feb 2024 – Present</div>
         </div>
+      
+        <p class="resume-item__role">Autonomous Driving Research Engineer</p>
       </article>
 
       <article class="resume-item">
