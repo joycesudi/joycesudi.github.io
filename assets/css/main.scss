@@ -687,6 +687,12 @@ body {
   background: transparent;
 }
 
+.resume-item__content {
+  min-width: 0;
+  display: grid;
+  row-gap: 0.14rem;
+}
+
 .resume-item__org {
   font-size: 0.98rem;
   font-weight: 600;
