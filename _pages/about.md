@@ -112,20 +112,6 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo-clubelek.png" alt="Clubelek logo">
-          </div>
-      
-          <h3 class="resume-item__org">Clubelek</h3>
-      
-          <div class="resume-item__date">Sep 2020 – Feb 2023</div>
-        </div>
-      
-        <p class="resume-item__role">Robotics Engineer</p>
-      </article>
-
-      <article class="resume-item">
-        <div class="resume-item__header">
-          <div class="resume-item__logo">
             <img src="/images/logo_lab_ampère.png" alt="Ampère Laboratory logo">
           </div>
       
@@ -135,6 +121,20 @@ working at the intersection of industrial innovation and academic research in au
         </div>
       
         <p class="resume-item__role">Design and Development of a Quadcopter Testbed (Master’s Thesis)</p>
+      </article>
+
+      <article class="resume-item">
+        <div class="resume-item__header">
+          <div class="resume-item__logo">
+            <img src="/images/logo-clubelek.png" alt="Clubelek logo">
+          </div>
+      
+          <h3 class="resume-item__org">Clubelek</h3>
+      
+          <div class="resume-item__date">Sep 2020 – Feb 2023</div>
+        </div>
+      
+        <p class="resume-item__role">Robotics Engineer</p>
       </article>
 
     </div>
