@@ -15,7 +15,7 @@ buttons:
     external: true
 
   - text: "IFAC-IAV Conference 2025 - Slides"
-    url: "/files/IFAC-IAV_Conference_ 2025_slides.pdf"
+    url: "/files/phdthesis/IFAC-IAV_Conference_ 2025_slides.pdf"
     color: "green"
     external: false
 

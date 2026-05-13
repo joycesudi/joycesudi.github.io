@@ -10,7 +10,7 @@ related: false
 
 buttons:
   - text: "Diagram"
-    url: "/files/Vehicule_Class_Diagram.jpg"
+    url: "/files/digital-twin-stla/Vehicule_Class_Diagram.jpg"
     color: "green"
     external: false
 

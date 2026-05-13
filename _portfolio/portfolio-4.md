@@ -10,17 +10,17 @@ related: false
 
 buttons:
   - text: "Thesis"
-    url: "/files/quadcopter_project_report.pdf"
+    url: "/files/quadcopter/quadcopter_project_report.pdf"
     color: "green"
     external: true
     
   - text: "Slides"
-    url: "/files/quadcopter_project_slides_presentation.pdf"
+    url: "/files/quadcopter/quadcopter_project_slides_presentation.pdf"
     color: "green"
     external: true
 
   - text: "Blueprint"
-    url: "/files/blueprint_testbed.pdf"
+    url: "/files/quadcopter/blueprint_testbed.pdf"
     color: "green"
     external: false
 

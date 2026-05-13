@@ -10,7 +10,7 @@ related: false
 
 buttons:
   - text: "Diagram"
-    url: "/files/Architecture_Global_CDF2023.pdf"
+    url: "/files/clubelek/Architecture_Global_CDF2023.pdf"
     color: "green"
     external: false
 

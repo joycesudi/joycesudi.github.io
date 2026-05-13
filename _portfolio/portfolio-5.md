@@ -10,12 +10,12 @@ related: false
 
 buttons:
   - text: "Final Report"
-    url: "/files/cubesat_project_report.pdf"
+    url: "/files/cubesat/cubesat_project_report.pdf"
     color: "green"
     external: false
 
   - text: "Shematic designed"
-    url: "/files/shematic_obc.pdf"
+    url: "/files/cubesat/shematic_obc.pdf"
     color: "green"
     external: false
 
