@@ -30,7 +30,7 @@ At Clubelek – INSA Lyon, I contributed to the development of a competition rob
 My work focused on robot localization and path planning in a ROS-based robotics environment, using Python and C/C++ to support reliable behavior during competition tasks.
 </p>
 
-![Clubelek Competition Robot](/images/robot2023.jpg)
+![Clubelek Competition Robot](/images/teaser/robot2023.jpg)
 
 {% include project-highlights.html highlights=page.highlights %}
 
