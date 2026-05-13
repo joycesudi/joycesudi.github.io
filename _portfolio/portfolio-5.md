@@ -3,7 +3,7 @@ title: "CubeSat Prototyping and Testing"
 collection: portfolio
 permalink: /portfolio/cubesat-prototyping-and-testing/
 excerpt: "Design of the on‐board computer and embedded electronics architecture of a university CubeSat"
-teaser: /images/CubeSAT_project.jpg
+teaser: /images/teaser/CubeSAT_project.jpg
 layout: single
 share: false
 related: false
@@ -12,12 +12,12 @@ buttons:
   - text: "Final Report"
     url: "/files/cubesat/cubesat_project_report.pdf"
     color: "green"
-    external: false
+    external: true
 
   - text: "Shematic designed"
     url: "/files/cubesat/shematic_obc.pdf"
     color: "green"
-    external: false
+    external: true
 
 highlights:
   - "CubeSat Prototyping"

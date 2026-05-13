@@ -3,7 +3,7 @@ title: "Predictive Path-Tracking Control of AVs"
 collection: portfolio
 permalink: /portfolio/predictive-path-tracking-control-of-avs/
 excerpt: "Design of multi-controller architectures for automated driving in heterogeneous and critical scenarios."
-teaser: /images/Stellantis-PonyAI.jpg
+teaser: /images/teaser/Stellantis-PonyAI.jpg
 layout: single
 share: false
 related: false
@@ -17,7 +17,7 @@ buttons:
   - text: "IFAC-IAV Conference 2025 - Slides"
     url: "/files/phdthesis/IFAC-IAV_Conference_ 2025_slides.pdf"
     color: "green"
-    external: false
+    external: true
 
 highlights:
   - "PhD"

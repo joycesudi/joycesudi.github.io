@@ -3,7 +3,7 @@ title: "Quadcopter Testbed"
 collection: portfolio
 permalink: /portfolio/quadcopter-testbed/
 excerpt: "Design and Development of a Quadcopter Testbed (Master's Thesis)"
-teaser: /images/banc_de_test.jpg
+teaser: /images/teaser/banc_de_test.jpg
 layout: single
 share: false
 related: false
@@ -22,7 +22,7 @@ buttons:
   - text: "Blueprint"
     url: "/files/quadcopter/blueprint_testbed.pdf"
     color: "green"
-    external: false
+    external: true
 
 highlights:
   - "Quadcopter Flight Dynamics"

@@ -15,7 +15,7 @@ working at the intersection of industrial innovation and academic research in au
 
 <div class="about-image">
   <figure class="hero-figure align-center">
-    <img src="/images/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
+    <img src="/images/home/quadcopter-testbed.jpg" alt="Experimental quadcopter testbed in a laboratory setting.">
   </figure>
 </div>
 
@@ -34,7 +34,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo_univ_haute_alsace.png" alt="Université de Haute-Alsace logo">
+            <img src="/images/logos/logo_univ_haute_alsace.png" alt="Université de Haute-Alsace logo">
           </div>
       
           <h3 class="resume-item__org">Univ. de Haute-Alsace</h3>
@@ -48,7 +48,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/Logo_INSA_Lyon_small.png" alt="INSA Lyon logo">
+            <img src="/images/logos/Logo_INSA_Lyon_small.png" alt="INSA Lyon logo">
           </div>
       
           <h3 class="resume-item__org">INSA Lyon</h3>
@@ -62,7 +62,7 @@ working at the intersection of industrial innovation and academic research in au
        <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo-epfl.png" alt="EPFL logo">
+            <img src="/images/logos/logo-epfl.png" alt="EPFL logo">
           </div>
       
           <h3 class="resume-item__org">EPFL</h3>
@@ -84,7 +84,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo_stla.png" alt="Stellantis logo">
+            <img src="/images/logos/logo_stla.png" alt="Stellantis logo">
           </div>
       
           <h3 class="resume-item__org">Stellantis</h3>
@@ -98,7 +98,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo_stla.png" alt="Stellantis logo">
+            <img src="/images/logos/logo_stla.png" alt="Stellantis logo">
           </div>
       
           <h3 class="resume-item__org">Stellantis</h3>
@@ -112,7 +112,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo_lab_ampère.png" alt="Ampère Laboratory logo">
+            <img src="/images/logos/logo_lab_ampère.png" alt="Ampère Laboratory logo">
           </div>
       
           <h3 class="resume-item__org">Ampère Laboratory</h3>
@@ -126,7 +126,7 @@ working at the intersection of industrial innovation and academic research in au
       <article class="resume-item">
         <div class="resume-item__header">
           <div class="resume-item__logo">
-            <img src="/images/logo-clubelek.png" alt="Clubelek logo">
+            <img src="/images/logos/logo-clubelek.png" alt="Clubelek logo">
           </div>
       
           <h3 class="resume-item__org">Clubelek</h3>

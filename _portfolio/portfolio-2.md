@@ -3,7 +3,7 @@ title: "Digital Twin for Load Identification"
 collection: portfolio
 permalink: /portfolio/digital-twin-for-load-identification/
 excerpt: "3D Vehicle Digital Twin for Load Identification Using Real Driving Data"
-teaser: /images/train_arrière.PNG
+teaser: /images/teaser/train_arrière.PNG
 layout: single
 share: false
 related: false
@@ -12,7 +12,7 @@ buttons:
   - text: "Diagram"
     url: "/files/digital-twin-stla/Vehicule_Class_Diagram.jpg"
     color: "green"
-    external: false
+    external: true
 
   - text: "Code"
     url: "https://github.com/joycesudi/quaternion"
